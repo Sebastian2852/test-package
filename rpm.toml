@@ -1,6 +1,6 @@
 [package]
-name = "test"
-releaseAssetName = "test.zip"
+name = "rstl"
+releaseAssetName = "rstl.zip"
 repo = "www.github.com/sebastian2852/test-package"
 
 [dependencies]
