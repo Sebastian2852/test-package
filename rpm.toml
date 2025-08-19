@@ -1,6 +1,6 @@
 [package]
 name = "test"
-releaseAssetName = "test.tar.gz"
+releaseAssetName = "test.zip"
 repo = "www.github.com/sebastian2852/test-package"
 
 [dependencies]
